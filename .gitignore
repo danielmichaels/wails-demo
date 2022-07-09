@@ -1,0 +1,9 @@
+app/build
+app/frontend/package.json.md5
+app/frontend/node_modules
+app/build/bin
+app/frontend/package-lock.json
+app/build/.DS_Store
+app/.DS_Store
+.idea
+.DS_Store
